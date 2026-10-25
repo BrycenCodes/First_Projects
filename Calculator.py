@@ -1,4 +1,4 @@
-import time
+ import time
 print('Welcome to calculator!')
 time.sleep(1.5)
 print('Pick your operation!')
